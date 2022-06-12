@@ -1,0 +1,79 @@
+* {
+			color: white;
+}
+
+body {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			height: 100vh;
+			background-size: cover;
+			background-position: center center;
+}
+
+a {
+			font-weight: bold !important;
+			margin: 10px 0px !important;
+}
+
+body.red {
+			background-image: url('../imgs/red.jpeg');
+}
+
+body.orange {
+			background-image: url('../imgs/orange.jpeg');
+}
+
+body.yellow {
+			background-image: url('../imgs/yellow.jpeg');
+}
+
+body.green {
+			background-image: url('../imgs/green.jpeg');
+}
+
+body.blue {
+			background-image: url('../imgs/blue.jpeg');
+}
+
+body.violet {
+			background-image: url('../imgs/violet.jpeg');
+}
+
+body.red a {
+			color: #5c0d0d;
+}
+
+body.orange a {
+			color: #6b340f;
+}
+
+body.yellow a {
+			color: #6d7321;
+}
+
+body.green a {
+			color: #0f4a18;
+}
+
+body.blue a {
+			color: #0c1d66;
+}
+
+body.violet a {
+			color: #4a0c66;
+}
+
+div.glassmorphism {
+			/* Glassmorphism effect */
+			background: rgba(255, 255, 255, 0.1);
+			backdrop-filter: blur(10px);
+			-webkit-backdrop-filter: blur(10px);
+			
+			/* Another styles */
+			border-radius: 20px;
+			padding: 20px;
+			text-align: center;
+			box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.500);
+			width: 80vw;
+}
