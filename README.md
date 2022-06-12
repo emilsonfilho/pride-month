@@ -1,4 +1,4 @@
-#Pride Month
+# Pride Month
 🇧🇷 - Esse site foi mais uma espécie de *exercício* do que **realmente** um mini-projeto de site.<br>
 
 🇺🇸 - (*This site was more of a *exercise* of sorts than **really** a mini-site project.*)
